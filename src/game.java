@@ -32,7 +32,7 @@ public class game {
         int chars = word.length();
         ArrayList<Character> used = new ArrayList<>();
         ArrayList<Character> wrong = new ArrayList<>();
-        JOptionPane.showMessageDialog(null, "Hangman Game 1.0");
+        JOptionPane.showMessageDialog(null, "Hangman Game 2.0");
         JOptionPane.showMessageDialog(null, "The word contains " + chars + " characters");
 
         while (ok == 0) {
